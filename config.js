@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51955095498', '@ffxryu.18', true],
+  ['5215634990524', 'Devi Bot', true],
   ['51955095498', '@ffxryu.18', true],
   ['51955095498', '@ffxryu.18', true],
   ['51955095498', '@ffxryu.18', true],
@@ -25,10 +25,10 @@ global.owner = [
 global.suittag = ['51955095498'] 
 global.prems = ['51955095498'] 
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '@ffxryu.18'
-global.wm = '@ffxryu.18'
-global.igfg = '@ffxryu.18'
+global.packname = 'Devi Bot'
+global.author = 'Devi Bot'
+global.wm = 'Devi Bot'
+global.igfg = 'Devi Bot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -430,9 +430,9 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ @ffxryu.18`
-global.gt = '@ffxryu.18'
-global.mysticbot = '@ffxryu.18'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ Devi Bot`
+global.gt = 'Devi Bot'
+global.mysticbot = 'Devi Bot'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
